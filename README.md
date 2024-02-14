@@ -8,6 +8,7 @@
 
 Инструменты:
 SjAMSPlus: https://github.com/z00m128/sjasmplus
+
 Emu80: https://www.emu80.org/
 
 Ссылка на плейлист с роликами YouTube: 
